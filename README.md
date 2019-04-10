@@ -1,7 +1,15 @@
 TwoPointFluxFVM
 ===============
 
+
+There will be no further development of this package. Please
+find new developments in [VoronoiFVM.jl](https://github.com/j-fu/VoronoiFVM.jl)
+
+
+
+
 Author: J. Fuhrmann
+
 
 
 Solver for coupled nonlinear partial differential equations
